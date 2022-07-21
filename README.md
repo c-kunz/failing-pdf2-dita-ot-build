@@ -2,7 +2,9 @@
 
 ## Steps to reproduce
 
-1. `dita -f pdf2 -i repro.dita`
+1. `git clone https://github.com/c-kunz/failing-pdf2-dita-ot-build`
+2. `cd failing-pdf2-dita-ot-build`
+3. `dita -f pdf2 -i repro.dita`
 
 ## Expected result
 
