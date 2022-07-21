@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reproduce_failing_pdf2_build">
+    <title>Reproduction of failing PDF2 build</title>
+    <refbody>
+        <section>
+            <p>
+                <image href="./glyph.svg" />
+            </p>
+        </section>
+    </refbody>
+</reference>
